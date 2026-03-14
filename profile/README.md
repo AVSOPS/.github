@@ -11,7 +11,7 @@
 <p align="center">
   <a href="https://avsops.com">🌐 avsops.com</a> &nbsp;|&nbsp;
   <a href="https://github.com/AVSOPS/veteran-organizations">📂 Organizations Data</a> &nbsp;|&nbsp;
-  <a href="https://github.com/AVSOPSOrg/state-data">📂 State Data</a>
+  <a href="https://github.com/AVSOPS/cvso-state-data">📂 State Data</a>
 </p>
 
 ---
@@ -21,7 +21,7 @@
 | Repository | Description |
 |------------|-------------|
 | [veteran-organizations](https://github.com/AVSOPS/veteran-organizations) | 12,000+ veteran service organizations across all 50 states — open CSV data |
-| [state-data](https://github.com/AVSOPSOrg/state-data) | County Veteran Service Officer directories for all 50 states + DC |
+| [cvso-state-data](https://github.com/AVSOPS/cvso-state-data) | County Veteran Service Officer directories for all 50 states + DC |
 
 ---
 
