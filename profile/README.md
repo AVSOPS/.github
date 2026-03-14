@@ -21,7 +21,7 @@
 | Repository | Description |
 |------------|-------------|
 | [veteran-organizations](https://github.com/AVSOPS/veteran-organizations) | 12,000+ veteran service organizations across all 50 states — open CSV data |
-| [cvso-state-data](https://github.com/AVSOPS/cvso-state-data) | County Veteran Service Officer directories for all 50 states + DC |
+| [cvso-state-data](https://github.com/AVSOPS/cvso-state-data) | County Veteran Service Officer directories and State VA offices for all 50 states + DC |
 
 ---
 
