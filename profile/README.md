@@ -4,14 +4,14 @@
 
 <h2 align="center">The Veterans & Patriots Network</h2>
 <p align="center">
-  A free, open, organization-agnostic national directory of veteran service organizations<br>
-  and patriotic societies across all 3,144+ U.S. counties.
+  A 501(c)(3) nonprofit open data initiative collecting and publishing veteran service data<br>
+  from all 50 states so every veteran can find the help they've earned.
 </p>
 
 <p align="center">
   <a href="https://avsops.com">🌐 avsops.com</a> &nbsp;|&nbsp;
-  <a href="https://github.com/avsops/state-data">📂 Open Data Repository</a> &nbsp;|&nbsp;
-  <a href="https://github.com/avsops/state-data/wiki">📖 Documentation</a>
+  <a href="https://github.com/AVSOPS/veteran-organizations">📂 Organizations Data</a> &nbsp;|&nbsp;
+  <a href="https://github.com/AVSOPSOrg/state-data">📂 State Data</a>
 </p>
 
 ---
@@ -20,7 +20,8 @@
 
 | Repository | Description |
 |------------|-------------|
-| [state-data](https://github.com/avsops/state-data) | Public CVSO directories, VA offices, and veteran program data for all 50 states + DC |
+| [veteran-organizations](https://github.com/AVSOPS/veteran-organizations) | 12,000+ veteran service organizations across all 50 states — open CSV data |
+| [state-data](https://github.com/AVSOPSOrg/state-data) | County Veteran Service Officer directories for all 50 states + DC |
 
 ---
 
